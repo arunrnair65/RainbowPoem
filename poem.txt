@@ -1,4 +1,4 @@
-The rainbow & unicorn
+The rainbow & unicorn & POny
 
 Purpule
 Ping
@@ -8,5 +8,6 @@ Green
 Red
 voilet
 Yellow
-
+INdigo
 Added unicorn
+Added Pony
